@@ -1,0 +1,5 @@
+{
+  "name": "Data Unifier",
+  "description": "A tool to process and merge data from a structured text and a JSON file into a single, unified JSON format. It intelligently fills in missing data from the JSON source.",
+  "requestFramePermissions": []
+}
